@@ -1,6 +1,8 @@
 DjanYolo
 =============
 
+.. image:: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoboMx%2Fdjanyolo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
+
 Manage yolo images efficiently. A django app template that can be loaded to any existing app.
 
 Features
