@@ -5,7 +5,7 @@ Manage yolo images efficiently. A django app template that can be loaded to any 
 
 Features
 -----
-* Supports Django ORM
+* Supports Django models
 * Admin panel
 * Image annotation
 * Image cropping
