@@ -6,7 +6,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.rst')).read()
 NEWS = open(os.path.join(here, 'NEWS.txt')).read()
 
-version = '2020.345345.0'
+version = '2020.1.0'
 
 install_requires = [
     "asgiref==3.2.5",
