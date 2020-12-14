@@ -1,5 +1,6 @@
+import os
+
 from setuptools import setup, find_packages
-import sys, os
 
 here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.rst')).read()
@@ -21,7 +22,6 @@ setup(name='djanyolo',
       description="Manage content for YOLO model.",
       long_description=README + '\n\n' + NEWS,
       classifiers=[
-          # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       ],
       keywords='yolo, djanyolo, django',
       author='RoboMx Team',
@@ -36,4 +36,4 @@ setup(name='djanyolo',
           'console_scripts':
               ['djanyolo=djanyolo:main']
       }
-)
+      )
